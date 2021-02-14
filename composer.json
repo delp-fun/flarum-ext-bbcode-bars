@@ -2,10 +2,19 @@
     "name": "delpflarum-ext-bbcode-bars",
     "description": "Embed progress bars inside Flarum post.",
     "type": "flarum-extension",
+      "keywords": [
+    "flarum"
+     ],
     "require": {
         "flarum/core": "^0.1.0-beta.14"
     },
-  "extra": {
+      "authors": [
+    {
+      "name": "Delp",
+      "email": "contact@delp.community"
+    }
+    ],
+    "extra": {
         "flarum-extension": {
             "title": "BBCode Progress Bars",
             "icon": {
