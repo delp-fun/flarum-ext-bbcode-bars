@@ -1,5 +1,5 @@
 <?php
-namespace oe800\BBCodeBars\Listeners;
+namespace delp\BBCodeBars\Listeners;
 use Flarum\Extend;
 use s9e\TextFormatter\Configurator;
 
