@@ -5,7 +5,7 @@ use s9e\TextFormatter\Configurator;
 
 return [
     (new Extend\Frontend('forum'))
-        ->css(__DIR__.'/less/forum.less')
+        ->css(__DIR__.'/less/extension.less')
 
     (new Extend\Formatter())
         ->configure(function (Configurator $configurator) {
