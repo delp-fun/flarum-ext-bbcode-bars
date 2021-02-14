@@ -1,5 +1,5 @@
 {
-    "name": "delpflarum-ext-bbcode-bars",
+    "name": "delp/flarum-ext-bbcode-bars",
     "description": "Embed progress bars inside Flarum post.",
     "type": "flarum-extension",
       "keywords": [
