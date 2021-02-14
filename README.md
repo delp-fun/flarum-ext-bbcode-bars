@@ -3,7 +3,7 @@ Add customize-able Progress Bars to Flarum posts.
 
 Install:
 
-`composer require oe800/flarum-ext-bbcode-bars`
+`composer require delp/flarum-ext-bbcode-bars`
 
 Usage:
 
