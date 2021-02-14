@@ -1,6 +1,6 @@
 <?php
 
-namespace oe800\BBCodeBars;
+namespace delp\BBCodeBars;
 
 use Illuminate\Contracts\Events\Dispatcher;
 return function (Dispatcher $events) {
